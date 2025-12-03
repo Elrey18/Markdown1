@@ -14,8 +14,15 @@ _this one is Italicized_
 # List 
 Unordered List
 - Number 1
+  - Sublist 1
+  - sublist 2
 - Number 2
 
 * Number 1
 * Number 2
-  
+
+ORDERED LIST
+1. FIRST
+2. SECOND
+3. THIRD
+
