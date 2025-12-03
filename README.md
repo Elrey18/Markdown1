@@ -32,3 +32,9 @@ ORDERED LIST
 ## Insertion of image
 ![buk Logo](https://cdn.brandfetch.io/idgV2hKivP/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764453856223)
 
+## Code and Syntax 
+```python
+print("HELLO,WORLD!")
+```
+
+
