@@ -2,6 +2,6 @@
 A markdown setup and Trial
 # Trial for the first
 
-# Trial for the second time
+## Trial for the second time
 
-# Trial third
+### Trial third
