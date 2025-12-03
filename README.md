@@ -28,3 +28,7 @@ ORDERED LIST
 
 ## links
 [Arewa Data Science](https://github.com/arewadataScience/ArewaDS-Machine-Learning.git)
+
+## Insertion of image
+![buk Logo](https://cdn.brandfetch.io/idgV2hKivP/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764453856223)
+
